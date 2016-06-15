@@ -1,0 +1,4 @@
+package "qualitative-order"
+
+modules = QualitativeOrder.Core
+main = QualitativeOrder.Core
