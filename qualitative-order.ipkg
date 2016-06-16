@@ -1,4 +1,4 @@
 package "qualitative-order"
 
-modules = QualitativeOrder.Core
+modules = QualitativeOrder.Core, QualitativeOrder.Examples
 main = QualitativeOrder.Core
